@@ -1,0 +1,2054 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-10-05 10:40+0000\n"
+"POT-Revision-Date: Tue Aug 16 2016 16:26:29 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:82
+msgid "Your Name *"
+msgstr ""
+
+#: comments.php:86
+msgid "Your Email *"
+msgstr ""
+
+#: comments.php:88
+msgid "Will not be published."
+msgstr ""
+
+#: comments.php:91
+msgid "Website"
+msgstr ""
+
+#: comments.php:97
+msgid "Your Comment"
+msgstr ""
+
+#: footer.php:37
+msgid "&copy; 2015 The Monday"
+msgstr ""
+
+#: footer.php:44
+msgid "Theme: The Monday by "
+msgstr ""
+
+#: footer.php:45
+msgid "AccessPress Themes"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: searchform.php:10 searchform.php:11
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: sidebar-left.php:22 sidebar.php:22
+msgid "Contact Page"
+msgstr ""
+
+#: sidebar-left.php:24
+msgid "Left"
+msgstr ""
+
+#: sidebar-left.php:29 sidebar.php:30
+msgid "Example Widget"
+msgstr ""
+
+#: sidebar-left.php:30 sidebar.php:31
+msgid ""
+"This is an example widget to show how the %s Sidebar looks by default. You "
+"can add custom widgets from the %swidgets screen%s in the admin. If custom "
+"widgets is added than this will be replaced by those widgets."
+msgstr ""
+
+#: sidebar.php:24
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:27 inc/assets/the-monday-custom-class.php:312
+msgid "Theme Info"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "The Monday Pro Features"
+msgstr ""
+
+#: inc/extras.php:127
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:59 template-parts/template-blog.php:42
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags.php:60 template-parts/template-blog.php:43
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:97 inc/template-tags.php:114
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:99
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:104
+msgid "<i class=\"fa fa-comments-o\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:104
+msgid "<i class=\"fa fa-comments-o\"></i> 1"
+msgstr ""
+
+#: inc/template-tags.php:104
+msgid "<i class=\"fa fa-comments-o\"></i> %"
+msgstr ""
+
+#: inc/template-tags.php:116
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:127 template-parts/content-page.php:23
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:144
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:146
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:148
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:150
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:150
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:152
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:152
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:154
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:154
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:169
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:171
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:173
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:176
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:180
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:182
+msgid "Archives"
+msgstr ""
+
+#: inc/the-monday-breadcrumbs.php:5 inc/the-monday-functions.php:242 
+#: inc/assets/panels/the-monday-header.php:306
+msgid "Home"
+msgstr ""
+
+#: inc/the-monday-breadcrumbs.php:6 inc/the-monday-breadcrumbs.php:11
+msgid "%s"
+msgstr ""
+
+#: inc/the-monday-breadcrumbs.php:7
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/the-monday-breadcrumbs.php:8
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: inc/the-monday-breadcrumbs.php:9
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: inc/the-monday-breadcrumbs.php:10
+msgid "Error 404"
+msgstr ""
+
+#: inc/the-monday-breadcrumbs.php:12
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/the-monday-functions.php:365
+msgid "404"
+msgstr ""
+
+#: inc/the-monday-functions.php:369
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/the-monday-functions.php:406 inc/the-monday-functions.php:407
+msgid "Join the Conversation"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:18
+msgid "Sidebar"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:28
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:38
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:40
+msgid "Shows widgets on Contact Page Template."
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:48
+msgid "Front Page: Subscribe Section"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:50
+msgid "Content Subscribe Today Section"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:58
+msgid "Front Page: Call to Action"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:60
+msgid "Content about call to action (style 1)"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:80
+msgid "Footer: Contact Map"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:82
+msgid "Content about footer map section"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:90
+msgid "Footer: Sidebar one"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:92
+msgid "Content about footer sidebar one"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:100
+msgid "Footer: Sidebar two"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:102
+msgid "Content about footer sidebar two"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:110
+msgid "Footer: Sidebar three"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:112
+msgid "Content about footer sidebar three"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:120
+msgid "Footer: Sidebar four"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:122
+msgid "Content about footer sidebar four"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:130
+msgid "Footer: Social Icons"
+msgstr ""
+
+#: inc/the-monday-widgets-area.php:132
+msgid "Content about footer Social icons"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:16 template-parts/content-single.php:31 
+#: template-parts/content.php:45
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:41 template-parts/sections/section-about.php:18 
+#: inc/assets/panels/the-monday-design.php:133 
+#: inc/assets/panels/the-monday-homepage.php:103
+msgid "Read More"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Page"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:22
+msgid "&mdash; Select Category &mdash;"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:52 
+#: inc/assets/the-monday-sanitize.php:107 
+#: inc/assets/panels/the-monday-footer.php:54 
+#: inc/assets/panels/the-monday-homepage.php:53 
+#: inc/assets/panels/the-monday-homepage.php:150 
+#: inc/assets/panels/the-monday-homepage.php:277 
+#: inc/assets/panels/the-monday-homepage.php:402 
+#: inc/assets/panels/the-monday-homepage.php:461 
+#: inc/assets/panels/the-monday-homepage.php:896 
+#: inc/assets/panels/the-monday-homepage.php:1043 
+#: inc/assets/panels/the-monday-homepage.php:1219 
+#: inc/assets/panels/the-monday-homepage.php:1300 
+#: inc/assets/panels/the-monday-homepage.php:1400 
+#: inc/assets/panels/the-monday-homepage.php:1527
+msgid "Enable"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:53 
+#: inc/assets/the-monday-sanitize.php:108 
+#: inc/assets/panels/the-monday-footer.php:55 
+#: inc/assets/panels/the-monday-homepage.php:54 
+#: inc/assets/panels/the-monday-homepage.php:151 
+#: inc/assets/panels/the-monday-homepage.php:278 
+#: inc/assets/panels/the-monday-homepage.php:403 
+#: inc/assets/panels/the-monday-homepage.php:462 
+#: inc/assets/panels/the-monday-homepage.php:897 
+#: inc/assets/panels/the-monday-homepage.php:1044 
+#: inc/assets/panels/the-monday-homepage.php:1220 
+#: inc/assets/panels/the-monday-homepage.php:1301 
+#: inc/assets/panels/the-monday-homepage.php:1401 
+#: inc/assets/panels/the-monday-homepage.php:1528
+msgid "Disable"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:72 
+#: inc/assets/the-monday-sanitize.php:150 
+#: inc/assets/panels/the-monday-design.php:265
+msgid "Yes"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:73 
+#: inc/assets/the-monday-sanitize.php:151 
+#: inc/assets/panels/the-monday-design.php:266
+msgid "No"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:213
+msgid "Choose Fonts"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:214
+msgid "Open Sans"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:215
+msgid "Roboto"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:216
+msgid "Arimo"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:217
+msgid "Oswald"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:218
+msgid "Lato"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:219
+msgid "PT Sans"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:220
+msgid "Raleway"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:221
+msgid "Ubuntu"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:222
+msgid "Montserrat"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:223
+msgid "Merriweather"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:224
+msgid "Lora"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:225
+msgid "Bitter"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:226
+msgid "Lobster"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:227
+msgid "Arvo"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:228
+msgid "Oxygen"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:229
+msgid "Dosis"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:230
+msgid "Cabin"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:231
+msgid "Muli"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:304
+msgid "View Demo"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:308
+msgid "Documentation"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:316
+msgid "Support"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:320
+msgid "Rate This Theme"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:324
+msgid "More WordPress Resources"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:336
+msgid "Single-Click Import Demo Data"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:337
+msgid "Built in Customizer"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:338
+msgid "Advanced Header Settings"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:339
+msgid "Plenty of Awesome Homepage Sections"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:340
+msgid "Homepage Sections Re-order"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:341
+msgid "Unlimited Theme Colors"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:342
+msgid "Advanced Typography"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:343
+msgid "Multiple Layouts for Archive Page"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:344
+msgid "Multiple layouts for Portfolio page and section"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:345
+msgid "Plenty of Shortcodes"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:346
+msgid "Useful widgets like Call to Action, Progress Bar and Social icons"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:347
+msgid "Team Member Layout"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:348
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:349
+msgid "Cross browser compatible"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:350
+msgid "Fully SEO optimized"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:351
+msgid "Fast loading"
+msgstr ""
+
+#: inc/assets/the-monday-custom-class.php:353
+msgid "Buy Now"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:11 
+#: inc/assets/panels/the-monday-header.php:53
+msgid "Full screen slider"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:12 inc/assets/the-monday-sanitize.php:26 
+#: inc/assets/panels/the-monday-header.php:54 
+#: inc/assets/panels/the-monday-header.php:76
+msgid "Image"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:13 inc/assets/the-monday-sanitize.php:27
+msgid "Nothing (only menu)"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:52
+msgid "Cover"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:53
+msgid "Contain"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:66
+msgid "One"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:67
+msgid "Two"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:68
+msgid "Three"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:69
+msgid "Four"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:81
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:82
+msgid "Wide Layout"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:94
+msgid "Column View"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:95
+msgid "List View"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:120 
+#: inc/assets/panels/the-monday-homepage.php:212 
+#: inc/assets/panels/the-monday-homepage.php:1611
+msgid "None"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:121 
+#: inc/assets/panels/the-monday-homepage.php:213 
+#: inc/assets/panels/the-monday-homepage.php:577 
+#: inc/assets/panels/the-monday-homepage.php:663 
+#: inc/assets/panels/the-monday-homepage.php:749 
+#: inc/assets/panels/the-monday-homepage.php:835 
+#: inc/assets/panels/the-monday-homepage.php:1134 
+#: inc/assets/panels/the-monday-homepage.php:1612
+msgid "Title"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:122 
+#: inc/assets/panels/the-monday-homepage.php:214 
+#: inc/assets/panels/the-monday-homepage.php:1613
+msgid "Date"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:123 
+#: inc/assets/panels/the-monday-homepage.php:215 
+#: inc/assets/panels/the-monday-homepage.php:1614
+msgid "Random"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:136 
+#: inc/assets/panels/the-monday-homepage.php:237 
+#: inc/assets/panels/the-monday-homepage.php:1636
+msgid "Descending"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:137 
+#: inc/assets/panels/the-monday-homepage.php:238 
+#: inc/assets/panels/the-monday-homepage.php:1637
+msgid "Ascending"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:163 
+#: inc/assets/panels/the-monday-header.php:279
+msgid "Sticky"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:164 
+#: inc/assets/panels/the-monday-header.php:280
+msgid "Static"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:177 
+#: inc/assets/the-monday-sanitize.php:229 
+#: inc/assets/the-monday-sanitize.php:242
+msgid "Classic"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:178
+msgid "Full width (no sidebar)"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:179
+msgid "Masonry (grid style)"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:193
+msgid "Inline"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:194
+msgid "Centered (menu and site logo)"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:216 
+#: inc/assets/panels/the-monday-homepage.php:339 
+#: inc/assets/panels/the-monday-homepage.php:959 
+#: inc/assets/panels/the-monday-homepage.php:1463
+msgid "All Posts"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:217 
+#: inc/assets/panels/the-monday-homepage.php:340 
+#: inc/assets/panels/the-monday-homepage.php:960 
+#: inc/assets/panels/the-monday-homepage.php:1464
+msgid "Numbers of Posts"
+msgstr ""
+
+#: inc/assets/the-monday-sanitize.php:230 
+#: inc/assets/the-monday-sanitize.php:243
+msgid "Grid Style"
+msgstr ""
+
+#: inc/assets/the-monday-slider.php:64 
+#: inc/assets/panels/the-monday-header.php:181
+msgid "Most Powerfull"
+msgstr ""
+
+#: inc/assets/the-monday-slider.php:65 
+#: template-parts/sections/section-featuredproduct.php:32 
+#: template-parts/sections/section-price-tables.php:12 
+#: template-parts/sections/section-skill.php:12 
+#: inc/assets/panels/the-monday-header.php:200 
+#: inc/assets/panels/the-monday-homepage.php:1075 
+#: inc/assets/panels/the-monday-homepage.php:1249 
+#: inc/assets/panels/the-monday-homepage.php:1349
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: inc/tgm/the-monday-tgmpa.php:50
+msgid "Newsletter"
+msgstr ""
+
+#: inc/tgm/the-monday-tgmpa.php:57
+msgid "AccessPress Custom Post Type"
+msgstr ""
+
+#: inc/tgm/the-monday-tgmpa.php:64
+msgid "AccessPress Social Icons"
+msgstr ""
+
+#: inc/tgm/the-monday-tgmpa.php:71
+msgid "AccessPress Social Counter"
+msgstr ""
+
+#: inc/tgm/the-monday-tgmpa.php:78
+msgid "AccessPress Social Share"
+msgstr ""
+
+#: inc/tgm/the-monday-tgmpa.php:85
+msgid "AccessPress Instagram Feed"
+msgstr ""
+
+#: inc/tgm/the-monday-tgmpa.php:109
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/the-monday-tgmpa.php:110
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/the-monday-tgmpa.php:111
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/the-monday-tgmpa.php:112
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/the-monday-tgmpa.php:113
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/the-monday-tgmpa.php:114
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/the-monday-tgmpa.php:115
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/the-monday-tgmpa.php:116
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/the-monday-tgmpa.php:117
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/the-monday-tgmpa.php:118
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/the-monday-tgmpa.php:119
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/the-monday-tgmpa.php:120
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/the-monday-tgmpa.php:121
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/the-monday-tgmpa.php:122
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/the-monday-tgmpa.php:123
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/the-monday-tgmpa.php:124
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/the-monday-tgmpa.php:125
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/widgets/widget-calltoaction.php:23
+msgid "A widget that shows Call to Action."
+msgstr ""
+
+#: inc/widgets/widget-calltoaction.php:36
+msgid "Call to Action Title"
+msgstr ""
+
+#: inc/widgets/widget-calltoaction.php:41
+msgid "Call to Action Description"
+msgstr ""
+
+#: inc/widgets/widget-calltoaction.php:47
+msgid "Section background Image"
+msgstr ""
+
+#: inc/widgets/widget-calltoaction.php:52
+msgid "Button Url"
+msgstr ""
+
+#: inc/widgets/widget-calltoaction.php:57 
+#: inc/assets/panels/the-monday-homepage.php:1656
+msgid "Button Text"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:139
+msgid "No file chosen"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:142
+msgid "Upload"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:144 inc/widgets/widget-fields.php:153
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/widget-fields.php:147
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/widgets/widget-fields.php:169
+msgid "View File"
+msgstr ""
+
+#: template-parts/sections/section-blog.php:11 
+#: inc/assets/panels/the-monday-homepage.php:1557
+msgid "Latest From Blogs"
+msgstr ""
+
+#: template-parts/sections/section-clients.php:10 
+#: inc/assets/panels/the-monday-homepage.php:1430
+msgid "Our Valuable Clients"
+msgstr ""
+
+#: template-parts/sections/section-counter.php:12 
+#: inc/assets/panels/the-monday-homepage.php:546
+msgid "fa-code"
+msgstr ""
+
+#: template-parts/sections/section-counter.php:12 
+#: inc/assets/panels/the-monday-homepage.php:632
+msgid "fa-beer"
+msgstr ""
+
+#: template-parts/sections/section-counter.php:12 
+#: inc/assets/panels/the-monday-homepage.php:718
+msgid "fa-rocket"
+msgstr ""
+
+#: template-parts/sections/section-counter.php:12 
+#: inc/assets/panels/the-monday-homepage.php:804
+msgid "fa-trophy"
+msgstr ""
+
+#: template-parts/sections/section-counter.php:14 
+#: inc/assets/panels/the-monday-homepage.php:566
+msgid "Lines of Code"
+msgstr ""
+
+#: template-parts/sections/section-counter.php:14 
+#: inc/assets/panels/the-monday-homepage.php:652
+msgid "Mugs of Beer"
+msgstr ""
+
+#: template-parts/sections/section-counter.php:14 
+#: inc/assets/panels/the-monday-homepage.php:738
+msgid "Completed Projects"
+msgstr ""
+
+#: template-parts/sections/section-counter.php:14 
+#: inc/assets/panels/the-monday-homepage.php:824
+msgid "Awards Achieved"
+msgstr ""
+
+#: template-parts/sections/section-featuredproduct.php:31 
+#: inc/assets/panels/the-monday-homepage.php:1230
+msgid "We Are Also Specialized In"
+msgstr ""
+
+#: template-parts/sections/section-footer-contact.php:19 
+#: inc/assets/panels/the-monday-footer.php:30 
+#: inc/assets/panels/the-monday-footer.php:84
+msgid "Get In Touch"
+msgstr ""
+
+#: template-parts/sections/section-footer-contact.php:22 
+#: inc/assets/panels/the-monday-footer.php:126
+msgid "Located In"
+msgstr ""
+
+#: template-parts/sections/section-footer-contact.php:22
+msgid "Mail Us &#64;"
+msgstr ""
+
+#: template-parts/sections/section-footer-contact.php:22 
+#: inc/assets/panels/the-monday-footer.php:296
+msgid "Call Us on"
+msgstr ""
+
+#: template-parts/sections/section-footer-contact.php:22 
+#: inc/assets/panels/the-monday-footer.php:381
+msgid "Fax Us"
+msgstr ""
+
+#: template-parts/sections/section-footer-contact.php:23 
+#: inc/assets/panels/the-monday-footer.php:167
+msgid "Mathuri Sadan, 5th floor Ravi Bhawan, Kathmandu, Nepal"
+msgstr ""
+
+#: template-parts/sections/section-footer-contact.php:23 
+#: inc/assets/panels/the-monday-footer.php:252
+msgid "info@accesspressthemes.com"
+msgstr ""
+
+#: template-parts/sections/section-footer-contact.php:23 
+#: inc/assets/panels/the-monday-footer.php:337
+msgid "+977 989545212"
+msgstr ""
+
+#: template-parts/sections/section-footer-contact.php:23 
+#: inc/assets/panels/the-monday-footer.php:422
+msgid "+977 984545212"
+msgstr ""
+
+#: template-parts/sections/section-portfolio.php:11 
+#: inc/assets/panels/the-monday-homepage.php:491
+msgid "What Have We Done So Far?"
+msgstr ""
+
+#: template-parts/sections/section-portfolio.php:21
+msgid "All"
+msgstr ""
+
+#: template-parts/sections/section-price-tables.php:11 
+#: inc/assets/panels/the-monday-homepage.php:1330
+msgid "Chose Your Plan"
+msgstr ""
+
+#: template-parts/sections/section-services.php:11 
+#: inc/assets/panels/the-monday-homepage.php:125 
+#: inc/assets/panels/the-monday-homepage.php:180
+msgid "Our Services"
+msgstr ""
+
+#: template-parts/sections/section-skill.php:11 
+#: inc/assets/panels/the-monday-homepage.php:1054
+msgid "We Have Got Skills"
+msgstr ""
+
+#: template-parts/sections/section-skill.php:17 
+#: inc/assets/panels/the-monday-homepage.php:1095
+msgid "Web Design"
+msgstr ""
+
+#: template-parts/sections/section-skill.php:17 
+#: inc/assets/panels/the-monday-homepage.php:1095
+msgid "Html/Css"
+msgstr ""
+
+#: template-parts/sections/section-skill.php:17 
+#: inc/assets/panels/the-monday-homepage.php:1095
+msgid "Graphic Design"
+msgstr ""
+
+#: template-parts/sections/section-skill.php:17
+msgid "UI/UX"
+msgstr ""
+
+#: template-parts/sections/section-skill.php:17
+msgid "Coding"
+msgstr ""
+
+#: template-parts/sections/section-skill.php:17
+msgid "Seo"
+msgstr ""
+
+#: template-parts/sections/section-skill.php:18 
+#: inc/assets/panels/the-monday-homepage.php:1096
+msgid "90"
+msgstr ""
+
+#: template-parts/sections/section-skill.php:18 
+#: inc/assets/panels/the-monday-homepage.php:1096
+msgid "75"
+msgstr ""
+
+#: template-parts/sections/section-skill.php:18 
+#: template-parts/sections/section-skill.php:18 
+#: inc/assets/panels/the-monday-homepage.php:1096
+msgid "70"
+msgstr ""
+
+#: template-parts/sections/section-skill.php:18 
+#: inc/assets/panels/the-monday-homepage.php:1096
+msgid "85"
+msgstr ""
+
+#: template-parts/sections/section-skill.php:18
+msgid "100"
+msgstr ""
+
+#: template-parts/sections/section-skill.php:21 
+#: inc/assets/panels/the-monday-homepage.php:1143
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+msgstr ""
+
+#: template-parts/sections/section-team.php:11 
+#: inc/assets/panels/the-monday-homepage.php:307
+msgid "Meet Our Team"
+msgstr ""
+
+#: template-parts/sections/section-testimonials.php:10 
+#: inc/assets/panels/the-monday-homepage.php:926
+msgid "Let's Hear What Clients Say"
+msgstr ""
+
+#. $id
+#. $id
+#: inc/admin/metabox/the-monday-sidebar.php:15 
+#: inc/admin/metabox/the-monday-sidebar.php:23
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/admin/metabox/the-monday-sidebar.php:34
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/admin/metabox/the-monday-sidebar.php:39
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/admin/metabox/the-monday-sidebar.php:44
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/admin/metabox/the-monday-sidebar.php:51
+msgid "No sidebar Full width"
+msgstr ""
+
+#: inc/admin/metabox/the-monday-sidebar.php:57
+msgid "No sidebar Content Centered"
+msgstr ""
+
+#: inc/admin/metabox/the-monday-sidebar.php:72
+msgid "Available Layouts"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:17
+msgid "Design Layout"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:35
+msgid "Blog Page Settings"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:55
+msgid "Blog Categories Lists"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:71
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:91 
+#: inc/assets/panels/the-monday-design.php:177 
+#: inc/assets/panels/the-monday-design.php:219
+msgid "Available Sidebars"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:92
+msgid "Select sidebar for whole site archives, categories, search page etc."
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:118
+msgid "Archive Content Length"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:120
+msgid "Set the length of archive content"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:142
+msgid "Read More Button"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:157
+msgid "Page Settings"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:178
+msgid ""
+"Select sidebar for all pages unless unique layout is set for specific page."
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:199
+msgid "Single Posts Settings"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:220
+msgid ""
+"Select sidebar for all Single Posts unless unique layout is set for specific "
+"post."
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:242
+msgid "Breadcrumbs Settings"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:261
+msgid "Option for Breadcrumbs"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:262
+msgid "Choose option to show/hide breadcrumbs."
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:281
+msgid "Custom Css"
+msgstr ""
+
+#: inc/assets/panels/the-monday-design.php:299
+msgid "Add your custom css code"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:17
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:50
+msgid "Get In Touch Section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:51
+msgid "Enable/Disable `Get In Touch` in homepage."
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:65
+msgid "Contact"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:74 
+#: inc/assets/panels/the-monday-homepage.php:73 
+#: inc/assets/panels/the-monday-homepage.php:170 
+#: inc/assets/panels/the-monday-homepage.php:297 
+#: inc/assets/panels/the-monday-homepage.php:481 
+#: inc/assets/panels/the-monday-homepage.php:916 
+#: inc/assets/panels/the-monday-homepage.php:1320 
+#: inc/assets/panels/the-monday-homepage.php:1420 
+#: inc/assets/panels/the-monday-homepage.php:1439 
+#: inc/assets/panels/the-monday-homepage.php:1547
+msgid "Section Menu Text"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:93 
+#: inc/assets/panels/the-monday-homepage.php:189 
+#: inc/assets/panels/the-monday-homepage.php:500 
+#: inc/assets/panels/the-monday-homepage.php:1065 
+#: inc/assets/panels/the-monday-homepage.php:1239 
+#: inc/assets/panels/the-monday-homepage.php:1339 
+#: inc/assets/panels/the-monday-homepage.php:1566
+msgid "Section Title"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:114
+msgid "Contact 1"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:137 
+#: inc/assets/panels/the-monday-footer.php:222 
+#: inc/assets/panels/the-monday-footer.php:307 
+#: inc/assets/panels/the-monday-footer.php:392
+msgid "Contact Title"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:146
+msgid "fa-map-marker"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:157 
+#: inc/assets/panels/the-monday-footer.php:242 
+#: inc/assets/panels/the-monday-footer.php:327 
+#: inc/assets/panels/the-monday-footer.php:412 
+#: inc/assets/panels/the-monday-homepage.php:557 
+#: inc/assets/panels/the-monday-homepage.php:643 
+#: inc/assets/panels/the-monday-homepage.php:729 
+#: inc/assets/panels/the-monday-homepage.php:815
+msgid "Icon"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:158
+msgid "Example: <strong>fa-map-marker</strong>."
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:178 
+#: inc/assets/panels/the-monday-footer.php:263 
+#: inc/assets/panels/the-monday-footer.php:348 
+#: inc/assets/panels/the-monday-footer.php:433
+msgid "Contact Info"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:199
+msgid "Contact 2"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:211
+msgid "Mail Us at"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:231
+msgid "fa-envelope"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:243
+msgid "Example: <strong>fa-envelope</strong>."
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:284
+msgid "Contact 3"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:316
+msgid "fa-phone"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:328
+msgid "Example: <strong>fa-phone</strong>."
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:369
+msgid "Contact 4"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:401
+msgid "fa-fax"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:413
+msgid "Example: <strong>fa-fax</strong>."
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:447
+msgid "Footer Widget layout"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:468
+msgid "Available layouts"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:469
+msgid "Select layout for Footer Widget Area."
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:491
+msgid "Theme Copyright"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:500
+msgid "2015 The Monday"
+msgstr ""
+
+#: inc/assets/panels/the-monday-footer.php:511
+msgid "Copyright Content"
+msgstr ""
+
+#: inc/assets/panels/the-monday-general.php:14
+msgid "Site Logo"
+msgstr ""
+
+#: inc/assets/panels/the-monday-general.php:30
+msgid "General Settings"
+msgstr ""
+
+#: inc/assets/panels/the-monday-general.php:51
+msgid "Theme color"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:20
+msgid "Header Settings"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:31
+msgid "Header type"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:34
+msgid ""
+"You can select your header type from here. After that, continue below to the "
+"next two tabs (Header Slider and Header Image) and configure them."
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:49
+msgid "Front page header type"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:51
+msgid "Select the header type for your front page"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:55 
+#: inc/assets/panels/the-monday-header.php:77
+msgid "No header (only menu)"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:72
+msgid "Site header type"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:74
+msgid "Select the header type for all pages except the front page"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:89
+msgid "Header Slider"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:90
+msgid "You can select posts from category to use as header slider"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:109
+msgid "Slider's Category"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:110
+msgid "Select cateogry for Header slider"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:130 
+#: inc/assets/panels/the-monday-homepage.php:49
+msgid "About Us Section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:131 
+#: inc/assets/panels/the-monday-homepage.php:50
+msgid "Choose option to display About Us section at home page"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:150
+msgid "Front Header Image"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:170 
+#: inc/assets/panels/the-monday-header.php:243
+msgid "Upload your Header Image"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:190
+msgid "Image Caption"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:211
+msgid "Image Description"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:224
+msgid "Inner Pages Header Image"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:257
+msgid "Primary Menu Settings"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:276
+msgid "Sticky menu"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:296
+msgid "Disable Single page Menu"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:315
+msgid "Home Tab Text"
+msgstr ""
+
+#: inc/assets/panels/the-monday-header.php:332
+msgid "Disable Home Tab"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:17
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:28
+msgid "About Us"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:64
+msgid "About"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:92
+msgid "Select Page"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:93
+msgid "Select page for About Us section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:112
+msgid "Section Button Text"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:146
+msgid "Our Services Section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:147
+msgid "Choose option to display Our Services section at home page"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:161
+msgid "Services"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:208 
+#: inc/assets/panels/the-monday-homepage.php:1607
+msgid "Posts Orderby"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:210
+msgid "Select order by option for posts to display in Our services section."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:233 
+#: inc/assets/panels/the-monday-homepage.php:1632
+msgid "Posts Order"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:235
+msgid "Select Posts order in Our services section."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:252
+msgid "Team Members"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:273
+msgid "Team Member Section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:274
+msgid "Choose option to display Team Member Section at home page"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:288
+msgid "Team"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:316 
+#: inc/assets/panels/the-monday-homepage.php:935
+msgid "Section Title Text"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:335 
+#: inc/assets/panels/the-monday-homepage.php:955 
+#: inc/assets/panels/the-monday-homepage.php:1459
+msgid "Posts Options"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:336
+msgid "Select option to define number of posts in Team Members section."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:358 
+#: inc/assets/panels/the-monday-homepage.php:978 
+#: inc/assets/panels/the-monday-homepage.php:1482
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:359
+msgid "Choose number of posts for Our Team section."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:378
+msgid "Subscribe Today"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:398
+msgid "Subscribe Section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:399
+msgid "Choose option to display Subscribe section at home page"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:422 
+#: inc/assets/panels/the-monday-homepage.php:1003
+msgid "Background Image"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:457
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:458
+msgid "Enable/Disable Portfolio Section in home page."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:472
+msgid "Portfolio"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:513
+msgid "Static Counter"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:514
+msgid "You can add up to 4 counters."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:534
+msgid "First Static Counter"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:558
+msgid "Example: <strong>fa-code</strong>."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:595 
+#: inc/assets/panels/the-monday-homepage.php:681 
+#: inc/assets/panels/the-monday-homepage.php:767 
+#: inc/assets/panels/the-monday-homepage.php:853
+msgid "Number"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:596 
+#: inc/assets/panels/the-monday-homepage.php:682 
+#: inc/assets/panels/the-monday-homepage.php:768 
+#: inc/assets/panels/the-monday-homepage.php:854
+msgid "Set your Static Counter in numbers."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:620
+msgid "Second Static Counter"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:644
+msgid "Example: <strong>fa-beer</strong>."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:706
+msgid "Third Static Counter"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:730
+msgid "Example: <strong>fa-rocket</strong>."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:792
+msgid "Fourth Static Counter"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:816
+msgid "Example: <strong>fa-trophy</strong>."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:871
+msgid "Testimonials"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:892
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:893
+msgid "Enable/Disable Testimonials Section in home page."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:956
+msgid "Select option to define number of posts in Testimonials Section."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:979
+msgid "Choose number of posts for Our Testimonials Section."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1028
+msgid "enable"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1039
+msgid "Skill Section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1040
+msgid "Enable/Disable Skill Section in home page."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1066
+msgid "Add title which display at left side of section."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1085 
+#: inc/assets/panels/the-monday-homepage.php:1153 
+#: inc/assets/panels/the-monday-homepage.php:1259 
+#: inc/assets/panels/the-monday-homepage.php:1359
+msgid "Section Description"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1086
+msgid "Add your description which display at left side of section."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1094
+msgid "First skill"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1094
+msgid "Second skill"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1094
+msgid "Third skill"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1094
+msgid "Fourth skill"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1095
+msgid "UI / UX"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1154
+msgid "Add skill info"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1174
+msgid "Percentage"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1175
+msgid "Set your skills in percent."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1194
+msgid "Featured Product"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1215
+msgid "Featured Product Section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1216
+msgid "Choose option to display Featured Product section at home page"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1260 
+#: inc/assets/panels/the-monday-homepage.php:1360
+msgid "Add your description which display below title."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1275
+msgid "Price Tables"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1296
+msgid "Price Tables Section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1297
+msgid "Enable/Disable Pricing Tables in homepage."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1375
+msgid "Our Clients"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1396
+msgid "Our Clients Section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1397
+msgid "Enable/Disable Clients Section in home page."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1411
+msgid "Clients"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1460
+msgid "Select option to define number of posts in Our Clients Section."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1483
+msgid "Choose number of posts for Our Clients Section."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1502
+msgid "Latest Blog"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1523
+msgid "Blog Section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1524
+msgid "Enable/Disable Latest Blog section in homepage."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1538
+msgid "Blog"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1586
+msgid "Blog's Category"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1587
+msgid "Select cateogry for Latest Blog section"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1609
+msgid "Select order by option for posts to display in Latest Blog section."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1634
+msgid "Select Posts order in Latest Blog section."
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1647
+msgid "More Posts"
+msgstr ""
+
+#: inc/assets/panels/the-monday-homepage.php:1673
+msgid "Check to hide More Posts button"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:19
+msgid "Typography"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:34
+msgid "Font Family Options"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:44
+msgid "Ubuntu, sans-serif"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:53
+msgid "Header Fonts"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:54
+msgid "Choose a font for the heading H1, H2, H3, H4, H5, H6 text."
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:66
+msgid "Open Sans,sans-serif"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:75
+msgid "Body Fonts"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:76
+msgid "Choose fonts for body text"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:92
+msgid "Font Size"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:111
+msgid "Section Title Size"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:112
+msgid "Set the font size for section title."
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:135
+msgid "Body Font Size"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:136
+msgid "Set the font size for body text."
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:159
+msgid "H1 Font Size"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:160
+msgid "Set the font size for H1 text."
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:183
+msgid "H2 Font Size"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:184
+msgid "Set the font size for H2 text."
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:207
+msgid "H3 Font Size"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:208
+msgid "Set the font size for H3 text."
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:231
+msgid "H4 Font Size"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:232
+msgid "Set the font size for H4 text."
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:255
+msgid "H5 Font Size"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:256
+msgid "Set the font size for H5 text."
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:279
+msgid "H6 Font Size"
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:280
+msgid "Set the font size for H6 text."
+msgstr ""
+
+#: inc/assets/panels/the-monday-typography.php:298
+msgid "Font Color"
+msgstr ""
+
+#. Name of the theme
+msgid "The Monday"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"The Monday is an elegant responsive WordPress theme for any type of business "
+"or freelancers. It is feature-rich, multi-purpose and powerful WordPress "
+"theme with a beautiful and user-friendly design. It offers a complete "
+"customization capability and multiple options for building a website "
+"instantly. It features customizer tool, homepage options, multiple header "
+"and footer styles, archive and blog  page options, complete color and "
+"typography settings etc."
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://accesspressthemes.com/wordpress-themes/the-monday/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://accesspressthemes.com/"
+msgstr ""

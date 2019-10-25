@@ -1,0 +1,54 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_the-monday">
+    <key name="front_image_caption" />
+    <key name="front_image_description" />
+    <key name="single_menu_home_text" />
+    <key name="about_section_menu_title" />
+    <key name="about_section_button_text" />
+    <key name="services_section_menu_title" />
+    <key name="service_section_title" />
+    <key name="team_section_menu_title" />
+    <key name="team_section_title" />
+    <key name="portfolio_section_menu_title" />
+    <key name="portfolio_section_title" />
+    <key name="static_counter_title_1" />
+    <key name="static_counter_title_2" />
+    <key name="static_counter_title_3" />
+    <key name="static_counter_title_4" />
+    <key name="testimonials_section_menu_title" />
+    <key name="testimonials_section_title" />
+    <key name="skill_section_title" />
+    <key name="skill_section_description" />
+    <key name="skill_title_1" />
+    <key name="skill_info_1" />
+    <key name="skill_title_2" />
+    <key name="skill_info_2" />
+    <key name="skill_title_3" />
+    <key name="skill_info_3" />
+    <key name="skill_title_4" />
+    <key name="skill_info_4" />
+    <key name="featired_product_section_title" />
+    <key name="featired_product_section_description" />
+    <key name="price_tables_section_menu_title" />
+    <key name="price_tables_section_title" />
+    <key name="price_tables_section_description" />
+    <key name="clients_section_menu_title" />
+    <key name="client_section_title" />
+    <key name="blog_section_menu_title" />
+    <key name="blog_section_title" />
+    <key name="blog_more_button_title" />
+    <key name="archive_read_more_btn_text" />
+    <key name="footer_contact_section_menu_title" />
+    <key name="footer_contact_section_title" />
+    <key name="footer_contact_title_1" />
+    <key name="footer_contact_info_1" />
+    <key name="footer_contact_title_2" />
+    <key name="footer_contact_info_2" />
+    <key name="footer_contact_title_3" />
+    <key name="footer_contact_info_3" />
+    <key name="footer_contact_title_4" />
+    <key name="the_monday_copyright_content" />
+</key>
+</admin-texts>
+</wpml-config>
