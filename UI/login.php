@@ -30,9 +30,9 @@
         <h1 class="text-center" style="color:#f7941d;">Login</h1>
         <form action="../action/userAction.php" method="post">
             <label style="color:#f7941d;" for="">Email</label>
-            <input class="form-control form-control-lg mb-4" style="background-color:#161B21; color:#f7941d;border:1px solid #f7941d; border-top:0; border-right:0; border-left:0; border-radius:0;" type="text" name="email" placeholder="Email">
+            <input class="form-control form-control-lg mb-4" style="background-color:#161B21; color:#f7941d;border:1px solid #f7941d; border-top:0; border-right:0; border-left:0; border-radius:0;" type="text" name="email" value="taro@gmail.com">
             <label style="color:#f7941d;" for="">Password</label>
-            <input class="form-control form-control-lg mb-4" style="background-color:#161B21; color:#f7941d;border:1px solid #f7941d; border-top:0; border-right:0; border-left:0; border-radius:0;" type="password" name="pass" placeholder="Password">
+            <input class="form-control form-control-lg mb-4" style="background-color:#161B21; color:#f7941d;border:1px solid #f7941d; border-top:0; border-right:0; border-left:0; border-radius:0;" type="password" name="pass" value="1234">
 
             <input class="register-submit form-control form-control-lg mt-5" style="background-color:#f7941d; color:#161B21;" type="submit" name="login" value="Login">
             <a href="register.php" class="form-control form-control-lg mt-5 text-center" style="background-color:#f7941d; color:#161B21; text-decoration:none;">Create a New Account</a>
@@ -41,3 +41,4 @@
 </body>
 
 </html>
+
